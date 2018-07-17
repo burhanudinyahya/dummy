@@ -1,2 +1,2 @@
-# dummy-stock
-For dummy 
+# dummy
+Dummy data for development
